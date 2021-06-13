@@ -1,1 +1,1 @@
-kya haal chal bidu
+aab hoga na dangal
