@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nmap.md",
-            "mode": "source"
+            "file": "Enumeration.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 213
   },
   "right": {
     "id": "dbf02c77e455be5c",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nmap.md",
+                "file": "Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,10 @@
   },
   "active": "0c9820e8c91ce98f",
   "lastOpenFiles": [
+    "Enumeration.md",
     "Nmap.md",
-    "Enumeration.md"
+    "Pasted image 20210614012530.png",
+    "Pasted image 20210614012440.png",
+    "Pasted image 20210614012627.png"
   ]
 }
