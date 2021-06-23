@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scriptkiddie/Enumeration.md",
-            "mode": "source"
+            "file": "Scriptkiddie/ScriptKiddie-writeup.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scriptkiddie/Enumeration.md",
+                "file": "Scriptkiddie/ScriptKiddie-writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,15 @@
   },
   "active": "24fd6a6d060fc49b",
   "lastOpenFiles": [
-    "Scriptkiddie/Enumeration.md",
+    "Scriptkiddie/ScriptKiddie-writeup.md",
     "Scriptkiddie/Nmap.md",
-    "Scriptkiddie/Untitled.md",
-    "Untitled.md",
-    "Untitled/Untitled.md"
+    "Scriptkiddie/Enumeration.md",
+    "Spectra/Spectra-writeup.md",
+    "Pasted image 20210617114315.png",
+    "Pasted image 20210617023128.png",
+    "Spectra/Nmap.md",
+    "Spectra/Untitled.md",
+    "Scriptkiddie/Root.md",
+    "Scriptkiddie/Untitled.md"
   ]
 }
